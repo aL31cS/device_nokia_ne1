@@ -1,1 +1,3 @@
-add_lunch_combo lineage_ne1-$var
+add_lunch_combo lineage_ne1-userdebug
+add_lunch_combo lineage_ne1-user
+add_lunch_combo lineage_ne1-eng
