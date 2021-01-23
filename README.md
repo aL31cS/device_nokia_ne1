@@ -21,4 +21,4 @@
 ## Device Picture
 
 ![Nokia 3](https://www.91-img.com/pictures/112575-v2-nokia-3-mobile-phone-large-1.jpg "Nokia 3")
-Credits to: @revanth-24
+Credits to: [@revanth-24](https://github.com/revanth-24)
